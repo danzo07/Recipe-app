@@ -35,10 +35,10 @@ const List = styled.div`
   flex-wrap: wrap;
   margin: 2rem 0rem;
   gap: 2rem;
-   @media only screen and (max-width: 700px) {
+  @media only screen and (max-width: 700px) {
     align-items: center;
     gap: 1rem;
-   }
+  }
   
 `;
 
